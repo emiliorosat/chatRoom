@@ -1,0 +1,11 @@
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\bin\Debug\chatServer.exe.config
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\bin\Debug\chatServer.exe
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\bin\Debug\chatServer.pdb
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\bin\Debug\chatServ.dll
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\bin\Debug\chatServ.pdb
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\bin\Debug\chatServ.dll.config
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\obj\Debug\chatServer.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\obj\Debug\chatServer.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\obj\Debug\chatServer.csproj.CopyComplete
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\obj\Debug\chatServer.exe
+C:\Users\Aaron\source\repos\ChatRoom\chatServer\obj\Debug\chatServer.pdb
