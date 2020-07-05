@@ -1,7 +1,6 @@
 C:\Users\Aaron\source\repos\ChatRoom\chatServ\bin\Debug\chatServ.dll.config
 C:\Users\Aaron\source\repos\ChatRoom\chatServ\bin\Debug\chatServ.dll
 C:\Users\Aaron\source\repos\ChatRoom\chatServ\bin\Debug\chatServ.pdb
-C:\Users\Aaron\source\repos\ChatRoom\chatServ\obj\Debug\chatServ.csprojAssemblyReference.cache
 C:\Users\Aaron\source\repos\ChatRoom\chatServ\obj\Debug\chatServ.csproj.CoreCompileInputs.cache
 C:\Users\Aaron\source\repos\ChatRoom\chatServ\obj\Debug\chatServ.dll
 C:\Users\Aaron\source\repos\ChatRoom\chatServ\obj\Debug\chatServ.pdb

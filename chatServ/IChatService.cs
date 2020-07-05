@@ -36,6 +36,10 @@ namespace chatServ
         public string Ipaddress { get => ipaddress; set => ipaddress = value; }
         [DataMember]
         public string Hostname { get => hostname; set => hostname = value; }
+        public override string ToString()
+        {
+            return this.username;
+        }
     }
 
     [DataContract]
